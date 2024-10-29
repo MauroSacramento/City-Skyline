@@ -18,7 +18,7 @@ Atualizando...
 <br>
 
 <p align="center">
-  <img alt="projeto Skyline" src="./images/" width="100%">
+  <img alt="projeto Skyline" src="sky.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
