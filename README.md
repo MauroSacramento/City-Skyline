@@ -1,7 +1,7 @@
 <h1 align="center"> City Skyline </h1>
 
 <p align="center">
-Atualizando...
+Este projeto é uma representação visual de uma cidade criada exclusivamente com CSS puro, sem o uso de JavaScript ou imagens externas. O objetivo é explorar o potencial do CSS para criar cenas complexas e dinâmicas, utilizando conceitos como animações, transições e pseudoelementos
 </p>
 
 <p align="center">
@@ -25,11 +25,12 @@ Atualizando...
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML para estrutura básica
+- CSS (Flexbox e Grid para layout)
 
 ## 💻 Projeto
 
-Actualizando...
+Projeto inspirado em cidades modernas e paisagens urbanas, este projeto foi desenvolvido para demonstrar o uso criativo do CSS na construção de visuais interativos e dinâmicos.
 
 - [Acesse o projeto finalizado, online](https://maurosacramento.github.io/City-Skyline/)
 
